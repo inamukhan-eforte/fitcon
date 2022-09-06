@@ -1,7 +1,10 @@
 # Doctors Portal 
 ![](https://i.ibb.co/0GhNLPk/image.png)
 
-# [LIVE](https://doctori.netlify.app/)
+# [LIVE DEMO](https://doctori.netlify.app/)
+
+# Client - frontend branch
+# Server - public_backend branch
 
 A full-stack app where you can pick the date and time and fix an appointment with your doctor. A doctor can review his appointments and prescribe medicine to a patient.
 
